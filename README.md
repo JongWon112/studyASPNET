@@ -7,7 +7,7 @@ ASP.NET Core 학습 리포지토리
 3. 웹 기반기술 
 	- HTML 5
 	- CSS 3
-	- JavaScript(MCMA 6)
+	- JavaScript(ECMAScript 6)
   
 ## 2일차
 - 웹 기반기술
