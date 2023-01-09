@@ -35,3 +35,12 @@ ASP.NET Core 학습 리포지토리
 1. ASP.NET Core
    - 기본개요
    - 기본프로젝트
+   - 게시판 만들기 프로젝트 생성
+   
+## 6일차
+1. ASP.NET Core
+   - 게시판 리스트
+   - 게시판 CRUD 완료
+   - trumbowyg 에디터 추가
+   - Bootstrap 적용
+   
