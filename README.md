@@ -56,10 +56,7 @@ ASP.NET Core 학습 리포지토리
 
 ![게시판페이징화면](https://raw.githubusercontent.com/JongWon112/studyASPNET/main/images/aspnet_screen01.png)
 게시판페이징화면
-<<<<<<< HEAD
-=======
 
->>>>>>> aaf0cbfca10b8d76d20e84630629fc9b0a411f1d
 ## 8일차
    - ASP.NET Core
    - 회원가입
