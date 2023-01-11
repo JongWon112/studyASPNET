@@ -71,3 +71,6 @@ ASP.NET Core 학습 리포지토리
 
 ![회원가입화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen03.png?raw=true)
 회원가입화면
+
+![템플릿 적용화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen04.png?raw=true)
+템플릿 적용화면
