@@ -69,5 +69,5 @@ ASP.NET Core 학습 리포지토리
    
 2. 결과화면
 
-![회원가입화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen02.png?raw=true)
+![회원가입화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen03.png?raw=true)
 회원가입화면
