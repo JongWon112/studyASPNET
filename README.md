@@ -83,10 +83,6 @@ ASP.NET Core 학습 리포지토리
 ![DB연동 메인화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen05.png?raw=true)
 DB연동 메인화면
 
-![권한관리화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen06.png?raw=true)
-권한관리화면
-
-
 ## 10일차
 1. ASP.NET Core
    - 메인페이지 DB연동(관리자)
@@ -95,3 +91,6 @@ DB연동 메인화면
    - [최종소스](https://github.com/JongWon112/studyASPNET/tree/main/Day10/BoardWebApp)
    
 2. 개발화면
+
+![권한관리화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen06.png?raw=true)
+권한관리화면
