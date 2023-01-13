@@ -28,7 +28,7 @@ ASP.NET Core 학습 리포지토리
 
 ![메인화면](https://raw.githubusercontent.com/JongWon112/studyASPNET/main/images/html_screen01.png)
 메인화면
-![라이트박스화면](https://github.com/JongWon112/studyASPNET/blob/main/images/html_screen02.png?raw=true)
+![라이트박스화면](https://github.com/JongWon112/studyASPNET/blob/main/images/html_screen03.png?raw=true)
 라이트박스화면
 
 ## 5일차
