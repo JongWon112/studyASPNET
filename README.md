@@ -62,9 +62,7 @@ ASP.NET Core 학습 리포지토리
 
 ## 8일차
 1. ASP.NET Core
-   - ASP.NET Core
-   - 회원가입
-   - 로그인
+   - 계정관리(로그인, 회원가입)
    - 세션관리
    
 2. 결과화면
@@ -78,13 +76,21 @@ ASP.NET Core 학습 리포지토리
 1. ASP.NET Core
    - Bootstrap 템플릿 적용 1차완료
    - 로그인 계정으로 글쓰기
-   - 메인페이지 DB 연동
+   - 메인화면 DB 연동
    
 2. 개발화면
+
+![DB연동 메인화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen05.png?raw=true)
+DB연동 메인화면
+
+![권한관리화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen06.png?raw=true)
+권한관리화면
 
 
 ## 10일차
 1. ASP.NET Core
-   - 마무리
+   - 메인페이지 DB연동(관리자)
+   - 권한관리
+   - 전체 마무리
    
 2. 개발화면
