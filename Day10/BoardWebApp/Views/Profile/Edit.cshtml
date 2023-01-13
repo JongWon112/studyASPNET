@@ -17,42 +17,10 @@
                 <label asp-for="Division" class="control-label"></label>
                 @*<input asp-for="Division" class="form-control" placeholder="Top | Card1 | Card2 | Card3 중 선택"/>*@
                 <select name="Division" id="division">
-                    @if(Model.Division == "Top")
-                    {
-                        <option value="Top" selected="selected">Top</option>
-                    }
-                    else
-                    {
-                        <option value="Top">Top</option>
-                    }
-                    @if (Model.Division == "Card1")
-                    {
-                        <option value="Card1" selected="selected">Card1</option>
-                    }
-                    else
-                    {
-                        <option value="Card1">Card1</option>
-                    }
-                    @if (Model.Division == "Card2")
-                    {
-                        <option value="Card2" selected="selected">Card2</option>
-                    }
-                    else
-                    {
-                        <option value="Card2">Card2</option>
-                    }
-                    @if (Model.Division == "Card3")
-                    {
-                        <option value="Card3" selected="selected">Card3</option>
-                    }
-                    else
-                    {
-                        <option value="Card3">Card3</option>
-                    }
-
-                  @*  <option value="Card1">Card1</option>
+                    <option value="Top" selected="selected">Top</option>
+                    <option value="Card1">Card1</option>
                     <option value="Card2">Card2</option>
-                    <option value="Card3">Card3</option>*@
+                    <option value="Card3">Card3</option>
                 </select>
                 <span asp-validation-for="Division" class="text-danger"></span>
             </div>
@@ -85,6 +53,17 @@
         </form>
     </div>
 </div>
+
+<script>
+    var divisionItems = document.getElementById('division')
+
+    for (var i = 0; i < divisionItems.length; i++) {
+        if ('@Model.Division' == divisionItems[i].value) {
+            divisionItems[i].selected = true;
+        }
+    }
+
+</script>
 
 
 @section Scripts {
