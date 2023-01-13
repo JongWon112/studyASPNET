@@ -89,7 +89,7 @@ DB연동 메인화면
    - 권한관리
    - 전체 마무리
    - [최종소스](https://github.com/JongWon112/studyASPNET/tree/main/Day10/BoardWebApp)
-   - [StudyASPNET_Schema_Datas]https://github.com/JongWon112/studyASPNET/tree/main/Sql)
+   - [StudyASPNET_Schema_Datas](https://github.com/JongWon112/studyASPNET/tree/main/Sql)
 2. 개발화면
 
 ![권한관리화면](https://github.com/JongWon112/studyASPNET/blob/main/images/aspnet_screen06.png?raw=true)
