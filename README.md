@@ -92,5 +92,6 @@ DB연동 메인화면
    - 메인페이지 DB연동(관리자)
    - 권한관리
    - 전체 마무리
+   - [최종소스](https://github.com/JongWon112/studyASPNET/tree/main/Day10/BoardWebApp)
    
 2. 개발화면
